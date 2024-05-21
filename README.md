@@ -1,5 +1,5 @@
 
-#Chatbot com API do Google Colab (Imersão Alura)
+# Chatbot com API do Google Colab (Imersão Alura)
 
 Este repositório contém o código de um chatbot desenvolvido durante a Imersão em Inteligência Artificial da Alura, utilizando a API do Google Colab. O chatbot foi criado utilizando o modelo de linguagem Gemini da Google AI.
 
